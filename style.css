@@ -1,0 +1,26 @@
+/*barva pozadí*/
+body{background: linear-gradient(90deg,#D496A7,#F1DEDE);}
+
+/*kulatý obrázek a barva fontu*/
+.uvod img{border-radius: 50%;}
+.uvod {color:#562430}
+
+/*zarovnání obsahu*/
+body{text-align:center;}
+
+/*změna fontu*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{font-family:Raleway; 
+    font-size:18px;}
+
+/*formátování fotek a barva */
+.fotky img{padding-right: 25px;
+            padding-bottom: 25px;}
+.fotky {color:#562430}
+.fotky {padding-top: 30px;}
+
+/*kontakt*/
+.kontakt h2 {color: #562430;}
+.kontakt li {font-size:26px; margin-right: 50px; padding-bottom: 50px;}
+.kontakt a:hover {color:#562430}
