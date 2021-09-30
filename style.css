@@ -1,9 +1,15 @@
 /*barva pozadí*/
 body{background: linear-gradient(90deg,#D496A7,#F1DEDE);}
 
-/*kulatý obrázek a barva fontu*/
+/*jméno*/
+h1 {color:#562430;padding-bottom: 25px;}
+
+/*kulatý obrázek*/
 .uvod img{border-radius: 50%;}
-.uvod {color:#562430}
+
+.omne {text-align: left;}
+
+.vedlesebe {display:flex; justify-content: space-evenly;}
 
 /*zarovnání obsahu*/
 body{text-align:center;}
