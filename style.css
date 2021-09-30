@@ -30,3 +30,7 @@ body{font-family:Raleway;
 .kontakt h2 {color: #562430;}
 .kontakt li {font-size:26px; margin-right: 50px; padding-bottom: 50px;}
 .kontakt a:hover {color:#562430}
+
+.body {max-width: 70%;
+        margin-left: auto;
+        margin-right: auto;}
